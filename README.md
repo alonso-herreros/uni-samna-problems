@@ -6,7 +6,7 @@
 ---
 
 | Owner name | Student ID @ UC3M (NIA) |
-| :---: | :---: | :---: |
+| :---: | :---: |
 | Alonso Herreros Copete | 100493990 |
 
 ## Statement files

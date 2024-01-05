@@ -26,6 +26,6 @@ It is public for members of the UC3M google suite domain.
 | Chapter 2 |  14   |    14     |   100 %    |
 | Chapter 3 |  14   |     0     |    0 %     |
 | Chapter 4 |  13   |     0     |    0 %     |
-| Chapter 5 |  10   |     0     |    0 %     |
+| Chapter 5 |  10   |    10     |   100 %    |
 | Chapter 6 |  10   |     0     |    0 %     |
 | Chapter 7 |   2   |     0     |    0 %     |

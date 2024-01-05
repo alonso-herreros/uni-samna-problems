@@ -15,7 +15,7 @@
 
 ## Completion Summary
 
-The following spreadsheet contains more information on the of available, started and completed exercises.
+The following spreadsheet contains more information on the available, started and completed exercises.
 It is public for members of the UC3M google suite domain.
 
 <https://docs.google.com/spreadsheets/d/1sEQ_ju_Ef3t_SuePzaQ3SCeEBE5WSW0Z1KyYeiuXeEI/edit?usp=sharing>

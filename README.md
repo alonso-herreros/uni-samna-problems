@@ -22,7 +22,7 @@ It is public for members of the UC3M google suite domain.
 
 | Chapter   | Total | Completed | Percentage |
 | --------- | :---: | :-------: | :--------: |
-| Chapter 1 |  10   |     0     |    0 %     |
+| Chapter 1 |  10   |    10     |   100 %    |
 | Chapter 2 |  14   |     0     |    0 %     |
 | Chapter 3 |  14   |     0     |    0 %     |
 | Chapter 4 |  13   |     0     |    0 %     |
